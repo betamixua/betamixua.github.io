@@ -1,2 +1,0 @@
-# betamix
-Сайт компанії Betamix
